@@ -52,7 +52,7 @@ open up localhost:
 - Python
 - LangChain
 - Flask
-- 
+- OpenRouter API
 - Pinecone
 
 
