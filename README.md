@@ -52,8 +52,7 @@ open up localhost:
 - Python
 - LangChain
 - Flask
-- OPENROUTER
+- 
 - Pinecone
-
 
 
